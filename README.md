@@ -7,8 +7,9 @@ No further updates or support will be provided.
 
 Please use https://github.com/geoObserver/QuickPolygonRepair instead.
 
-
-
+#
+#
+#
 
 Das Plugin Das Plugin prüft Polygon-Layer auf Geometriefehler. Ein genaue Beschreibung und FAQs  finden Sie unter https://geoobserver.de/qgis-plugin-selectnotvalidpolygons/.
 
