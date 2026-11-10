@@ -1,5 +1,12 @@
 # QGIS-Plugin: SelectNotValidPolygons
 
+# ⚠️ DEPRECATED
+
+This repository is no longer maintained.
+No further updates or support will be provided.
+
+Please use https://github.com/geoObserver/QuickPolygonRepair instead.
+
 Das Plugin Das Plugin prüft Polygon-Layer auf Geometriefehler. Ein genaue Beschreibung und FAQs  finden Sie unter https://geoobserver.de/qgis-plugin-selectnotvalidpolygons/.
 
 Eine Haftung für die Richtigkeit aller Funktionen des Plugins kann trotz sorgfältiger Prüfung nicht übernommen werden. Das gilt auch für eventuelle Schäden oder Konsequenzen, die durch die direkte oder indirekte Nutzung der angebotenen Inhalte entstehen.
